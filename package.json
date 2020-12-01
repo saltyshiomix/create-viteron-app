@@ -1,6 +1,6 @@
 {
   "name": "create-viteron-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create viteron (vite + electron) apps in one command",
   "repository": "git@github.com:saltyshiomix/create-viteron-app.git",
   "author": "Shiono Yoshihide <shiono.yoshihide@gmail.com>",
