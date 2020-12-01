@@ -39,7 +39,7 @@ $ yarn create viteron-app my-app --example xxx
 
 ## Examples
 
-<https://github.com/saltyshiomix/viteron/tree/master/examples>
+<https://github.com/saltyshiomix/viteron/tree/main/examples>
 
 ## Related
 
